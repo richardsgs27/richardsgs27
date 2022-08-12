@@ -1,4 +1,4 @@
-### Hi, I'm Gricelda wave.gif (241×234)
+### Hi, I'm Gricelda 
 
 <!--
 **richardsgs27/richardsgs27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
