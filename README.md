@@ -11,7 +11,7 @@
 - ⚓  I'm a Merchant Mariner and love the ocean very much.
 
  <h4 align="center"> Favorite Quote </h4>
- <h2 align="center"> "Never a failure, always a lesson" -Rihanna</h2>
+ <h5> "Never a failure, always a lesson" -Rihanna</h5>
 
 
 <br />
