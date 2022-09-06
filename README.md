@@ -10,8 +10,6 @@
 - 👩‍👩‍👧‍👧 I live in Kankakee, IL and I'm a proud mother of 3 beautiful girls.
 - ⚓  I'm a Merchant Mariner and love the ocean very much.
 
- <h4 align="center"> Favorite Quote </h4>
- <h5> "Never a failure, always a lesson" -Rihanna</h5>
 
 
 <br />
