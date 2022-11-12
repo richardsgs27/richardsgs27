@@ -7,7 +7,7 @@
 - 🧑‍🎓 I’m a student at Bloom Institute of Technology and I'm in the Full Stack Web Development Cohort.
 - 🖥️ My areas of focus include JavaScript and React.
 - 🌴 I was born in La Ceiba, Honduras but moved to the United States 8 years ago to pursue the american dream. 
-- 👩‍👩‍👧‍👧 I live in Kankakee, IL and I'm a proud mother of 3 beautiful girls.
+- 👩‍👩‍👧‍👧 I live in Manhattan, New York and I'm a proud mother of 3 beautiful girls.
 - ⚓  I'm a Merchant Mariner and love the ocean very much.
 
 
