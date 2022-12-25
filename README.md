@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> Hi, I'm Gracelyn Richards Branch </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> Hi, I'm Gracelyn Richards </h1>
 
 
 <a href= "https://www.bloomtech.com/courses/full-stack-web-development"><h4 align="center">✨ Full Stack Web Developer ✨</h4></a>
