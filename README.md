@@ -4,7 +4,7 @@
 <a href= "https://www.bloomtech.com/courses/full-stack-web-development"><h4 align="center">✨ Full Stack Web Developer ✨</h4></a>
 
 
-- 🧑‍🎓 I’m a student at Bloom Institute of Technology and I'm in the Full Stack Web Development Cohort.
+- 🧑‍🎓 I'm a Full Stack Web Developer, graduated from Bloomtech in 2023.
 - 🖥️ My areas of focus include JavaScript and React.
 - 🌴 I was born in La Ceiba, Honduras but moved to the United States 8 years ago to pursue the american dream. 
 - 👩‍👩‍👧‍👧 I live in Manhattan, New York and I'm a proud mother of 3 beautiful girls.
